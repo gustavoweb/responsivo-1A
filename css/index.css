@@ -46,6 +46,58 @@ section{
     height: 55vh;
     background-color: #fff;
 }
+section article{
+    width: 100%;
+    height: auto;
+}
+section article input{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2vh;
+    height: 4vh;
+    border: 0;
+    border-radius: 10px;
+    background-color: #0039f5;
+    color: #fff;
+    outline: none;
+}
+section article select{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2vh;
+    height: 4vh;
+    border: 0;
+    border-radius: 10px;
+    background-color: #0039f5;
+    color: #fff;
+    outline: none;
+}
+section article textarea{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2vh;
+    height: 9vh;
+    border: 0;
+    border-radius: 10px;
+    background-color: #0039f5;
+    color: #fff;
+    outline: none;
+}
+section article button{
+    width: 80%;
+    float: left;
+    margin-left: 10%;
+    margin-top: 2vh;
+    height: 4vh;
+    border: 0;
+    border-radius: 10px;
+    background-color: #0a0a0a;
+    color: #fff;
+    outline: none;
+}
 footer{
     width: 100%;
     height: 7vh;
